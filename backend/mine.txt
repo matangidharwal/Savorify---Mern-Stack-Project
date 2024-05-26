@@ -1,0 +1,19 @@
+packages----
+
+jsonwebtoken---authentication system
+
+bcrypt -- encrypt users daata and store in database
+
+cors---get permission to connect frontend to backend
+
+dotenv---use environment variable in project
+
+
+bodyparser- parse data coming through system
+
+multer- image store system
+
+stripe-payment gateway system
+
+validator- credentials are valid or not
+
